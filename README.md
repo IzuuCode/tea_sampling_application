@@ -1,16 +1,38 @@
-# tea_sampling
+🍵 Tea Sampling Mobile Application
+A modern and user-friendly mobile application that allows users to explore, submit, and review tea leaf, root, and soil samples. Built with Flutter and Firebase for real-time interaction, seamless data handling, and an engaging user interface.
 
-A new Flutter project.
+📱 Features
+🌱 Sample Submission: Submit tea leaf, root, and soil samples with optional notes and images.
 
-## Getting Started
+📝 Feedback System: Users can send feedback with emojis and view admin responses.
 
-This project is a starting point for a Flutter application.
+📍 Our Location: Locate nearby tea testing or sampling centers.
 
-A few resources to get you started if this is your first Flutter project:
+📊 Sample Reports: View reports of submitted samples.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 User Authentication: Secure login and registration using Firebase Authentication.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 User Profile: Manage user data including name, age, address, and profile picture.
+
+📄 PDF Upload: Upload and display PDF reports from Firebase.
+
+🧭 Side Navigation Drawer: Quick access to settings, feedback, FAQs, and more.
+
+🧑‍💻 Tech Stack
+Frontend: Flutter, Dart
+
+Backend: Firebase (Firestore, Auth, Storage)
+
+Design: Custom UI components with curved containers and Impact typography
+
+🚀 Getting Started
+Prerequisites
+Flutter SDK
+
+Dart SDK
+
+Firebase account
+
+Android Studio or VS Code
+
+contact [ isurujayanada2002@gmail.com ]
